@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Nandu 👋
 
-<!--
-**NanduOPP/nanduopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building projects & learning along the way.
 
-Here are some ideas to get you started:
+I'm exploring software development through hands-on projects,
+experiments, and a lot of breaking-and-fixing things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Learning
+
+- JavaScript
+- React
+- Node.js
+- SQL
+- Git & GitHub
+- APIs
+
+## 🚀 What I'm Building
+
+Currently working on my first set of projects.
+More coming soon.
+
+## 🎯 Goal
+
+Build useful things.  
+Learn by doing.  
+Keep improving.
+
+---
+
+*Still learning. Still building.*
